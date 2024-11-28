@@ -1,6 +1,6 @@
 # Desafío Broobe - Laravel
 
-[![Proyecto Broobe](https://via.placeholder.com/1200x400?text=Agrega+una+imagen+aquí)](https://github.com/usuario/proyecto-broobe)
+![logo](https://github.com/user-attachments/assets/4387a17b-a33e-469e-8696-54d47023b07b)
 
 Este proyecto es una aplicación desarrollada en Laravel que permite analizar métricas de páginas web. Sigue los pasos a continuación para instalar, configurar y ejecutar el proyecto en tu entorno local.
 
