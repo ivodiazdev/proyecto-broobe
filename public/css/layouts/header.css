@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #4596c5;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+}
+
+header > div > ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 15px;
+    font-size: 3vh;
+    margin-top: 3px;
+}
+
+header > div > ul > li > a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+header > div > ul > li > a:hover {
+    color: white;
+}
+
+.logo img {
+    height: 40px;
+}
+
+.logo a {
+    text-decoration: none;
+}
