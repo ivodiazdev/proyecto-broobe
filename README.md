@@ -23,7 +23,7 @@ Asegúrate de que tu entorno de desarrollo cumpla con los siguientes requisitos:
 ### 1. **Clonar el Repositorio**
 Clona este repositorio en tu máquina local:
 ```bash
-git clone https://github.com/usuario/proyecto-broobe.git
+git clone https://github.com/ivodiazdev/proyecto-broobe.git
 ```
 
 ### 2. **Ingresar al Directorio del Proyecto**
@@ -51,7 +51,7 @@ Configura las variables de entorno en el archivo .env, especialmente la conexió
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=nombre_de_tu_base_de_datos
+DB_DATABASE=broobe
 DB_USERNAME=usuario
 DB_PASSWORD=contraseña
 ```
